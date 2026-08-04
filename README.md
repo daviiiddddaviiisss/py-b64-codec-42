@@ -1,2 +1,4 @@
-# py-b64-codec-42
+# Py B64 Codec 42
+
 Encode and decode Base64 strings in Python.
+
